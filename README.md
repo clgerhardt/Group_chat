@@ -1,30 +1,11 @@
 # Build Guide
 
-
-
-## USER
-
-- Client: userClient
-
-- String: Username
-
-- HashMap: <User, Array list of Messages>
-
-
-
-## Message
-
-- String: message
-
-- User: user
-
-- TimeStamp: date
-
+## Client
 
 
 ## Server
 
-- Arraylist<Messages>: Messages
+- Set<String>: usernames
 
-- Arraylist<User>: userList
+- Set<Threads>: UserThreads
 
