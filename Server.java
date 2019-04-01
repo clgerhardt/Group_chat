@@ -1,3 +1,10 @@
+/**
+ * Course: cs4345
+ * Semester/Year: Spring 2019
+ * Assignment 3
+ * Group Member: Christian Gerhardt, Josh Jones, Sean Passmore
+ */
+
 import java.net.*;
 import java.io.*;
 import java.util.*;

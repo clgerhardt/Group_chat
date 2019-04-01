@@ -1,5 +1,17 @@
 # Build Guide
 
+`javac Server.java`
+`javac Client.java`
+
+On one terminal run:
+`java Server`
+Then in other new terminals run:
+`java Client`
+
+To PM a another user, you only need to type in this format.
+Otherwise you'll be prompted to attempt your message again. 
+`@ username message`
+
 ## Client
 
 Global Variables:
