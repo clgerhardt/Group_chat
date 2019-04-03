@@ -1,2 +1,3 @@
-Originallly the code was broken up into Server, User, and Message. We then realized message does not need it's own seperate class after it was done. That is when we split up work for the Server between Christian and myself and assigned the User class to josh. 
-Christian and I had some trouble determinining what part of the server needed
+Originallly the code was broken up into Server, User, and Message. We then realized message does not need it's own seperate class after it was done. That is when we split up work for the Server between Christian and myself and assigned the User class to Josh. 
+Christian and I had some trouble determinining what part of the server needed to be in a thread. We also helped Josh figure out the input and output threads for the User which helps prevent blocking and lag. Before this was implemented messages would only appear for a user if they sent a message at which point all messages would be printed to the terminal.
+We collaborated mostly in person and used paired programming. Anything done outside of class was uploaded to github.
